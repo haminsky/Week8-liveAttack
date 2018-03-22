@@ -63,7 +63,7 @@ non-existant username, the foramt of the error message is handeled differntly
 
 GIF Walkthrough:
 
-
+![usernameenumgreen](https://user-images.githubusercontent.com/30760006/37778611-9791d2d6-2da7-11e8-9a24-d41ad5c8ad61.gif)
 
 
 ## Red
