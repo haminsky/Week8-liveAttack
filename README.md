@@ -53,7 +53,17 @@ when the admin logs in and click to see the feedback the script will be trigerre
 GIF Walkthrough:
 ![xssgreen](https://user-images.githubusercontent.com/30760006/37758809-c8c695e6-2d6e-11e8-949b-0b8cdcfb3a43.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2 Username Enumiration:
+
+steps:
+
+Enter a username in the form, the developer mistake  the when entering a wrong password for an existant username and
+
+non-existant username, the foramt of the error message is handeled differntly 
+
+GIF Walkthrough:
+
+
 
 
 ## Red
