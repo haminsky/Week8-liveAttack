@@ -78,6 +78,10 @@ look like this https://35.224.228.84/red/public/salesperson.php?id=1, then chang
 
 to an some users info that is not supposed to be public.
 
+GIF Walkthrough:
+
+![idorred](https://user-images.githubusercontent.com/30760006/37780478-11d81b96-2dac-11e8-84bb-47b66e595dfd.gif)
+
 
 
 Vulnerability #2: __________________
