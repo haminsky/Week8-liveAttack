@@ -68,7 +68,17 @@ GIF Walkthrough:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR Insecure Direct Object Reference 
+
+Steps:
+
+go to the red website without logining in, click on find sales person, then click on any sales person name the URL will 
+
+look like this https://35.224.228.84/red/public/salesperson.php?id=1, then change the id=1 part to 10 or 11 this will take us
+
+to an some users info that is not supposed to be public.
+
+
 
 Vulnerability #2: __________________
 
