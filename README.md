@@ -37,7 +37,28 @@ GIF Walkthrough:
 
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Highjacking/fixation
+
+steps
+
+this vulnerability we need to browsers, since i dont have Chrome in my linux machine I used a Windows machine with Chrome 
+
+browser to login into the green target then used the provided tool to get the sessionId  https://35.224.228.86/green/public
+
+/hacktools/change_session_id.php copy it  then switched over to the Linux machine 
+
+with Firefox run the tool to get to change the session Id with the one from the green target. next step is to go to this url on 
+
+the Firefox browser that contains the blue target https://35.224.228.84/blue/public/index.php, then click on the login which 
+
+will provide access to the staff area without entering any credentials.
+
+GIF Walkthrough:
+
+
+
+
+
 
 
 ## Green
