@@ -43,7 +43,7 @@ steps
 
 this vulnerability we need to browsers, since i dont have Chrome in my linux machine I used a Windows machine with Chrome 
 
-browser to login into the green target then used the provided tool to get the sessionId  https://35.224.228.86/green/public
+browser to login into the green target then used the provided tool to get the sessionId  https://35.224.228.84/green/public
 
 /hacktools/change_session_id.php copy it  then switched over to the Linux machine 
 
