@@ -54,6 +54,7 @@ the Firefox browser that contains the blue target https://35.224.228.84/blue/pub
 will provide access to the staff area without entering any credentials.
 
 GIF Walkthrough:
+![sessionhijackfix](https://user-images.githubusercontent.com/30760006/37815005-4535ccc6-2e2a-11e8-81d7-2b61ee84396c.gif)
 
 
 
@@ -108,6 +109,6 @@ GIF Walkthrough:
 Vulnerability #2: __________________
 
 
-## Notes
-
-Describe any challenges encountered while doing the work
+## Note
+CSRF under construction
+GIF tool: Peek 
